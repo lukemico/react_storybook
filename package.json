@@ -4,8 +4,10 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
+    "@storybook/addons": "^5.0.6",
     "@storybook/react": "^5.0.6",
-    "babel-core": "^6.26.3"
+    "babel-core": "^6.26.3",
+    "storybook-addon-jsx": "^7.1.0"
   },
   "dependencies": {
     "react": "^16.8.6",
