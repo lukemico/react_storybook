@@ -2879,6 +2879,10 @@ decode-uri-component@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
 
+decorator@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/decorator/-/decorator-0.0.1.tgz#84b26f2b688fe5f3fd33079b3df8d8c5f02b4eb4"
+
 deep-extend@^0.6.0:
   version "0.6.0"
   resolved "https://registry.yarnpkg.com/deep-extend/-/deep-extend-0.6.0.tgz#c4fa7c95404a17a9c3e8ca7e1537312b736330ac"
